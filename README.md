@@ -1,4 +1,5 @@
 ### Hi there 🍑
+### Personal Blog: [tomoto.top](tomoto.top)
 
 <!--
 **Tomotopieces/Tomotopieces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
